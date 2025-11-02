@@ -1,2 +1,4 @@
 # meteoschweiz-parser
-Reads precipitation values fof specific weather stations from the Swiss Meteorological Institute 
+Reads precipitation values of specific weather stations from the Swiss Meteorological Institute
+
+Use at you own risk!
